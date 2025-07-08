@@ -51,9 +51,3 @@ This project is powered by a versatile tech stack:
 - **Processing:** The system processes the input and converts it into model-readable format.
 - **Prediction:** A pre-trained ML model predicts and ranks suitable gear.
 - **Output:** Recommended gear is presented to the user via a web interface.
-
-# Demo
-
-![image](https://github.com/user-attachments/assets/demo-sports-gear-1)
-
-![image](https://github.com/user-attachments/assets/demo-sports-gear-2)
